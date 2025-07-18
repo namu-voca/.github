@@ -7,7 +7,7 @@
   
   [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
   [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-  [![AI](https://img.shields.io/badge/AI%20Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+  [![AI](https://img.shields.io/badge/AI%20Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/namu-voca)
   
   [📱 앱 다운로드](#다운로드) • [🎯 주요 기능](#주요-기능) • [📖 사용법](#사용법) • [🤝 기여하기](#기여하기)
   
