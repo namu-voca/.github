@@ -9,7 +9,7 @@
   [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
   [![AI](https://img.shields.io/badge/AI%20Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/namu-voca)
   
-  [📱 앱 다운로드](#다운로드) • [🎯 주요 기능](#주요-기능) • [📖 사용법](#사용법) • [🤝 기여하기](#기여하기)
+  [📱 앱 다운로드](##다운로드) • [🎯 주요 기능](#주요-기능) • [📖 사용법](#사용법) • [🤝 기여하기](#기여하기)
   
 </div>
 
@@ -102,7 +102,7 @@ TODO : 설명 보충및 수정
 
 ## 🤝 기여하기
 
--> TODO : contact URL 넣기
+> support@namu-voca.com
 
 ### 📢 커뮤니티 참여
 - **피드백 제공**: 사용 경험과 개선 사항 공유
@@ -114,8 +114,8 @@ TODO : 설명 보충및 수정
 ## 📞 연락처
 
 ### 🌐 공식 채널
-- **웹사이트**: TODO: namuvoca support url 넣기
-- **이메일**: TODO: namuvoca support email 넣기
+- **웹사이트**: [www.namu-voca.com](www.namu-voca.com)
+- **이메일**: [support@namu-voca.com](support@namu-voca.com)
 
 
 ---
@@ -132,7 +132,7 @@ TODO : 설명 보충및 수정
   
   **나무보카와 함께 새로운 언어 학습을 시작해보세요!**
   
-  [📱 지금 다운로드하기](#다운로드) | [🤝 커뮤니티 참여하기](#커뮤니티)
+  [📱 지금 다운로드하기](##다운로드) | [🤝 커뮤니티 참여하기](#커뮤니티)
   
   ---
   
