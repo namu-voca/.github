@@ -56,7 +56,7 @@ TODO : 설명 보충및 수정
 ## 📱 다운로드
 
 ### 모바일 앱
-- **iOS**: -TODO - App Store링크 넣기-
+- **iOS**: [appstore link](https://apps.apple.com/app/namu-voca/id6747372020)
 - **Android**: -TODO - Google Play Store링크 넣기-
 
 ---
